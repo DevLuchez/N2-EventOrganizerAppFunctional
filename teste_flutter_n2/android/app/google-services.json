@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794450873397",
+    "project_id": "n2-eventorganizerapp",
+    "storage_bucket": "n2-eventorganizerapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794450873397:android:ae5d92be528f6136dff57c",
+        "android_client_info": {
+          "package_name": "com.example.teste_flutter_n2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd0-JGR32RIFoX7yoHskqkqWIbGf3c2X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
